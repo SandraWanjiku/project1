@@ -1,0 +1,20 @@
+###SIMPLE COUNTER PROJECT
+#This is a simple counter javascript project 
+##Here are the technologies i used
+    =>html5
+    =>css3
+    =>vanilla js
+    =>github
+    =>netlify
+## Here is a link to my remote repository
+   (https://github.com/SandraWanjiku/project1/tree/master)
+
+Steps on how to install the project:
+   1. Go to link https://github.com/SandraWanjiku/project1/tree/master
+   2. Download the zip file
+   3. Unzip file and open on vscode
+   4. Run the index.html file
+# SOFTWARE LICENCE
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
